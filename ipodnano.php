@@ -185,7 +185,7 @@ usando el producto por la epoca de los 2010.</p>
 
 
     <section class="Feedback" id="Feedback">
-    <h1 class="text-center p-3">Prueba de conexion</h1>
+    <h1 class="text-center p-3">Comentarios y Feedback</h1>
     <div class="container-fluid row">
         <form class="col-4 p-4" method="POST">
             <h3 class="text-center">Registro de usuarios</h3>
