@@ -11,7 +11,7 @@ if(!empty($_POST["btnupdate"])){
 
         $sql = $conn->query(" update personas set nombre='$nombre', apellido='$apellido', cedula=$cedula, email='$email' where id=$id ");
         if ($sql==1) {
-            header("location:index.php");
+            header("location:ipodnano.php");
         } else {
             echo "<div class='alert alert-danger'>Error al modificar el usuario</div>";
         }
